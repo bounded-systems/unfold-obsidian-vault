@@ -1,8 +1,8 @@
 ---
 title: Standard Note Template
 jsonld:
-  '@context': https://schema.org
-  '@type': CreativeWork
+  "@context": https://schema.org
+  "@type": CreativeWork
   name: Standard Note Template
 ---
 
@@ -14,12 +14,14 @@ jsonld:
 
 ## Evidence
 
-- Document supporting references, links to generator rules, analytics, or external sources.
+- Document supporting references, links to generator rules, analytics, or
+  external sources.
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Backlinks: [[fold.md]], [[generator-rule.md]], [[termination.md]], [[examples.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Backlinks: [[fold.md]], [[generator-rule.md]], [[termination.md]],
+  [[examples.md]]
 - Tags: `#unfold/core`, `#unfold/schema`
 
 ## Next steps

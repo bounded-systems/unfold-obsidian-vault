@@ -1,8 +1,8 @@
 ---
 title: Publish Limitations
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: Publish Limitations
 ---
 
@@ -11,7 +11,8 @@ jsonld:
 ## Summary
 
 - Capture constraints and guardrails for publishing unfolded structures.
-- Note how termination criteria and schema constraints influence what can be surfaced.
+- Note how termination criteria and schema constraints influence what can be
+  surfaced.
 
 ## Discussion
 
@@ -19,6 +20,6 @@ jsonld:
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Related: [[termination.md]], [[publishing.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Related: [[termination.md]], [[publishing.md]]
 - Tags: `#unfold/page`, `#unfold/ops`

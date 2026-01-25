@@ -1,8 +1,8 @@
 ---
 title: Cognitive Folding
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: Cognitive Folding Notes
 ---
 
@@ -19,6 +19,6 @@ jsonld:
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Related: [[fold.md]], [[termination.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Related: [[fold.md]], [[termination.md]]
 - Tags: `#unfold/page`, `#unfold/core`

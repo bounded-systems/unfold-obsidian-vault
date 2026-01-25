@@ -1,8 +1,8 @@
 ---
 title: Cognitive JQ
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: Cognitive JQ Notes
 ---
 
@@ -10,15 +10,18 @@ jsonld:
 
 ## Summary
 
-- Surface how JSON-like queries traverse folds and how unfold rules expand results.
-- Link to `generator-rule.md` for anamorphic routines that produce sequences from minimal seeds.
+- Surface how JSON-like queries traverse folds and how unfold rules expand
+  results.
+- Link to `generator-rule.md` for anamorphic routines that produce sequences
+  from minimal seeds.
 
 ## Opportunity
 
-- Draft a notebook demonstrating how `jq`-style filters relate to fold/unfold symmetry.
+- Draft a notebook demonstrating how `jq`-style filters relate to fold/unfold
+  symmetry.
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Related: [[generator-rule.md]], [[fold.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Related: [[generator-rule.md]], [[fold.md]]
 - Tags: `#unfold/page`, `#unfold/core`

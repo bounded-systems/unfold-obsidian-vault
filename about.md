@@ -1,8 +1,8 @@
 ---
 title: About Fold Engine
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: About Fold Engine
 ---
 
@@ -15,7 +15,7 @@ jsonld:
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
 - Tags: `#unfold/page`, `#unfold/core`
 
 ## Next steps

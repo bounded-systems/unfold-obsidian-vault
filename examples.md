@@ -3,8 +3,8 @@ title: Examples
 tags: [unfold/core]
 schema: example
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: Examples
 ---
 
@@ -17,13 +17,14 @@ jsonld:
 
 ## Evidence
 
-- Mini example (even numbers up to `N` with rule `u(x) = x + 2` and termination `p(x) = (x > N)`).
+- Mini example (even numbers up to `N` with rule `u(x) = x + 2` and termination
+  `p(x) = (x > N)`).
 - Mirror this example with more complex schema frames as the vault grows.
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Backlinks: [[fold.md]], [[generator-rule.md]], [[termination.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Backlinks: [[fold.md]], [[generator-rule.md]], [[termination.md]]
 - Tags: `#unfold/core`, `#unfold/schema`
 
 ## Next steps
@@ -33,5 +34,5 @@ jsonld:
 
 ## Schema map
 
-- Sample sequence: `[0, 2, 4, ..., N]`  
+- Sample sequence: `[0, 2, 4, ..., N]`
 - Defines seeds, rules, termination for quick referencing

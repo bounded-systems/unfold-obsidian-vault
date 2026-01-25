@@ -1,8 +1,8 @@
 ---
 title: Fold Schema
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: Fold Schema
 ---
 
@@ -10,7 +10,8 @@ jsonld:
 
 ## Summary
 
-- Describe the folded schema that represents the compressed view over the Borel-like set in Basis.
+- Describe the folded schema that represents the compressed view over the
+  Borel-like set in Basis.
 - Establish the connection between this fold and the vault’s sitemap/home note.
 
 ## Evidence
@@ -20,8 +21,8 @@ jsonld:
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Backlinks: [[generator-rule.md]], [[termination.md]], [[examples.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Backlinks: [[generator-rule.md]], [[termination.md]], [[examples.md]]
 - Tags: `#unfold/core`, `#unfold/schema`
 
 ## Next steps
@@ -31,5 +32,5 @@ jsonld:
 
 ## Schema map
 
-- `c: S → F` compression mapping  
+- `c: S → F` compression mapping
 - `seed(F)` extraction procedure for starting expansions

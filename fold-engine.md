@@ -1,8 +1,8 @@
 ---
 title: Fold Engine Homepage
 jsonld:
-  '@context': https://schema.org
-  '@type': Collection
+  "@context": https://schema.org
+  "@type": Collection
   name: Fold Engine Homepage
 ---
 
@@ -11,7 +11,8 @@ jsonld:
 ## Summary
 
 - Portal note for the fold-engine project; acts as the entry fold in the vault.
-- Track how `Unfold` relates to the published staging area and how the basis engine exposes expanded views from this fold.
+- Track how `Unfold` relates to the published staging area and how the basis
+  engine exposes expanded views from this fold.
 
 ## Unfolding threads
 
@@ -20,6 +21,6 @@ jsonld:
 
 ## Graph links
 
-- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
-- Related: [[fold.md]], [[generator-rule.md]]  
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]
+- Related: [[fold.md]], [[generator-rule.md]]
 - Tags: `#unfold/page`, `#unfold/core`
