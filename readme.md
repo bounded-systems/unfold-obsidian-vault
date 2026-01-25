@@ -44,8 +44,11 @@ Unfold in the Basis engine is the **rule-guided expansion** of a compressed cogn
 
 1. Treat this repository root as the Obsidian vault so each conceptual note—definition, rule set, examples, and invariants—lives in a markdown file within the vault.  
 2. Create vault notes for `fold.md`, `generator-rule.md`, `termination.md`, and `examples.md`, linking them through Obsidian backlinks to reflect the unfold workflow.  
-3. Build templates for anamorphic expansions and schema frames so contributors can capture new folds/unfolds consistently.
-4. Start parsing the provided sitemap XML into markdown so the vault includes each canonical page and can evolve into detailed notes for each URL.
-5. Each canonical page now has a seed vault note (`vault/*.md`) with frontmatter pointing back to the sitemap; expand them with summaries, backlinks, and further unfolds as you explore the published content.
-6. Model the vault graph and schema via `vault/graph-schema.md`, and use `vault/templates/standard-note.md` as the template for every new concept note.
-7. See `vault/obsidian-handbook.md` for how we’re modeling Obsidian’s config, storage, and editing conventions in this vault.
+3. Build templates for anamorphic expansions and schema frames so contributors can capture new folds/unfolds consistently.  
+4. Start parsing the provided sitemap XML into markdown so the vault includes each canonical page and can evolve into detailed notes for each URL.  
+5. Each canonical page now has a seed vault note (`vault/*.md`) with frontmatter pointing back to the sitemap; expand them with summaries, backlinks, and further unfolds as you explore the published content.  
+6. Model the vault graph and schema via `vault/graph-schema.md`, and use `vault/templates/standard-note.md` as the template for every new concept note.  
+7. Build/validation context lives under `build/obsidian-validation.md`, and the minimal `.obsidian/` folder demonstrates a root-level configuration the validator expects.  
+8. See `vault/obsidian-handbook.md` for how we’re modeling Obsidian’s config, storage, and editing conventions in this vault.  
+
+Next steps: 1) Populate each sitemap-based note with published-page detail using the standard template, 2) Refresh `vault/sitemap.md` through `scripts/parse_sitemap.py` whenever the sitemap changes so the graph stays in sync, 3) Define `.obsidian/` settings (workspace, dataview, templates) from `vault/obsidian-handbook.md` once tooling settles.
