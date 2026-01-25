@@ -16,3 +16,9 @@ jsonld:
 ## TODO
 
 - Reference `examples.md` once patterns for expansions are documented.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[examples.md]], [[fold.md]]  
+- Tags: `#unfold/page`, `#unfold/ops`

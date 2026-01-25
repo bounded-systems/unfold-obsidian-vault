@@ -10,6 +10,25 @@ jsonld:
 
 This note captures every canonical page from the sitemap so we can build individual vault notes for each URL.
 
+## Vault index
+
+- [[about.md]]
+- [[cognitive-folding.md]]
+- [[cognitive-jq.md]]
+- [[examples.md]]
+- [[fold-engine.md]]
+- [[fold.md]]
+- [[generator-rule.md]]
+- [[graph-schema.md]]
+- [[obsidian-handbook.md]]
+- [[project-notes.md]]
+- [[publish-limitations.md]]
+- [[publishing.md]]
+- [[readme.md]]
+- [[sitemap.md]]
+- [[termination.md]]
+- [[templates/standard-note.md]]
+
 | Page | Last modified |
 | --- | --- |
 | [fold-engine](https://bdelanghe.github.io/fold-engine/) | 2026-01-25T03:18:27.989Z |

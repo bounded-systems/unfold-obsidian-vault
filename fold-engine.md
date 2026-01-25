@@ -17,3 +17,9 @@ jsonld:
 
 - Link to `fold.md` for the original schema description.
 - Map generator rules from `generator-rule.md` when documenting expansion steps.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[fold.md]], [[generator-rule.md]]  
+- Tags: `#unfold/page`, `#unfold/core`

@@ -22,6 +22,7 @@ jsonld:
 
 ## Graph links
 
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
 - Backlinks: [[fold.md]], [[termination.md]], [[examples.md]]  
 - Tags: `#unfold/core`, `#unfold/schema`
 

@@ -16,3 +16,9 @@ jsonld:
 ## Notes
 
 - Preserve links to `fold.md` and `termination.md` for referencing invariants.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[fold.md]], [[termination.md]]  
+- Tags: `#unfold/page`, `#unfold/core`

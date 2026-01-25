@@ -48,6 +48,12 @@ This reconstructs the latent structure from the compressed fold without losing t
 
 Unfold in the Basis engine is the **rule-guided expansion** of a compressed cognitive fold into a detailed structure, operationalized by an anamorphic generator that preserves schema boundaries and termination semantics. Learn more at [https://unfold.robertdelanghe.com](https://unfold.robertdelanghe.com).
 
+## Graph links
+
+- Hub: [[sitemap.md]], [[obsidian-handbook.md]], [[graph-schema.md]]  
+- Related: [[fold.md]], [[generator-rule.md]], [[termination.md]], [[examples.md]]  
+- Tags: `#unfold/vault`, `#unfold/core`
+
 ## Next steps: Obsidian vault conversion
 
 1. Treat this repository root as the Obsidian vault so each conceptual note—definition, rule set, examples, and invariants—lives in a markdown file within the vault.  

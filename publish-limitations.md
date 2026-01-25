@@ -16,3 +16,9 @@ jsonld:
 ## Discussion
 
 - Business rules and coinductive boundaries help define where unfolding stops.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[termination.md]], [[publishing.md]]  
+- Tags: `#unfold/page`, `#unfold/ops`

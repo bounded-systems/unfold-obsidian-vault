@@ -16,3 +16,9 @@ jsonld:
 ## Connections
 
 - Connect this note to `vault/sitemap.md` to keep the vault index aligned with published URLs.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[publish-limitations.md]], [[fold-engine.md]]  
+- Tags: `#unfold/page`, `#unfold/ops`

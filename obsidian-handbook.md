@@ -16,8 +16,16 @@ jsonld:
 ## Notes & structure
 
 - Files use [Markdown](https://help.obsidian.md/file-formats) and support [Obsidian-flavored syntax](https://help.obsidian.md/obsidian-flavored-markdown) plus [advanced syntax](https://help.obsidian.md/advanced-syntax) (callouts, folding, etc.).  
+- Use wiki links (`[[note-title]]`) for internal references so every concept connects in one graph; keep paths stable and prefer the note title as the canonical link target. [Links](https://help.obsidian.md/links)  
+- Add `aliases` in frontmatter to capture alternate names, abbreviations, and legacy titles so links resolve without fragmenting the graph. [Aliases](https://help.obsidian.md/aliases)  
+- Use the Backlinks, Outgoing links, and Graph view panes to audit relationships, find orphaned notes, and validate the vault graph stays connected. [Backlinks](https://help.obsidian.md/plugins/backlinks), [Outgoing links](https://help.obsidian.md/plugins/outgoing-links), [Graph view](https://help.obsidian.md/plugins/graph)  
 - Manage notes via backlinks, links, and aliases: [Manage Notes](https://help.obsidian.md/manage-notes), [Links](https://help.obsidian.md/links), [Aliases](https://help.obsidian.md/aliases), [Embeds](https://help.obsidian.md/embeds).  
 - Use [Tags](https://help.obsidian.md/tags) and [Properties](https://help.obsidian.md/properties) for metadata; align with [Callouts](https://help.obsidian.md/callouts) and [Folding](https://help.obsidian.md/folding) for readability.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[graph-schema.md]]  
+- Tags: `#unfold/vault`, `#unfold/ops`
 
 ## Editing workflow
 

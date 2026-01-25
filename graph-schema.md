@@ -26,6 +26,12 @@ jsonld:
 - Duplicate templates located in `vault/templates/` (see `vault/templates/standard-note.md`) so that every new note captures Summary, Evidence, Next steps, and Linkage sections.  
 - For schema-heavy notes, include a `## Schema map` section that lists the rules or anchors the note references.
 
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[fold.md]], [[generator-rule.md]], [[termination.md]], [[examples.md]]  
+- Tags: `#unfold/schema`, `#unfold/vault`
+
 ## Visualization
 
 - Keep the sitemap note (`vault/sitemap.md`) updated and link each entry to its note using aliases/backlinks; this ensures graph view surfaces the entire fold-engine surface.  

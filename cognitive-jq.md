@@ -16,3 +16,9 @@ jsonld:
 ## Opportunity
 
 - Draft a notebook demonstrating how `jq`-style filters relate to fold/unfold symmetry.
+
+## Graph links
+
+- Hub: [[readme.md]], [[sitemap.md]], [[obsidian-handbook.md]]  
+- Related: [[generator-rule.md]], [[fold.md]]  
+- Tags: `#unfold/page`, `#unfold/core`
