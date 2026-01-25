@@ -1,6 +1,8 @@
 ---
-aliases: [Obsidian Handbook]
-sitemap-url: https://help.obsidian.md/
+title: Obsidian Handbook
+jsonld:
+  '@type': Collection
+  name: Obsidian Handbook
 ---
 
 # Obsidian Handbook

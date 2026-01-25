@@ -1,6 +1,8 @@
 ---
-aliases: [Cognitive Folding, Schema Folding]
-sitemap-url: https://bdelanghe.github.io/fold-engine/cognitive-folding/
+title: Cognitive Folding
+jsonld:
+  '@type': Collection
+  name: Cognitive Folding Notes
 ---
 
 # Cognitive Folding

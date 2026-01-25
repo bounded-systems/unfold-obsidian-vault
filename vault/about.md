@@ -1,6 +1,8 @@
 ---
-aliases: [About Fold Engine]
-sitemap-url: https://bdelanghe.github.io/fold-engine/about/
+title: About Fold Engine
+jsonld:
+  '@type': Collection
+  name: About Fold Engine
 ---
 
 # About

@@ -1,7 +1,8 @@
 ---
-tags: []
-status: draft
-schema: note
+title: Standard Note Template
+jsonld:
+  '@type': CreativeWork
+  name: Standard Note Template
 ---
 
 # {{title}}

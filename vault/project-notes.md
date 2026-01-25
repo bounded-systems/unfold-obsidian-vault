@@ -1,6 +1,8 @@
 ---
-aliases: [Project Notes, Fold Engine Notes]
-sitemap-url: https://bdelanghe.github.io/fold-engine/project-notes/
+title: Project Notes
+jsonld:
+  '@type': Collection
+  name: Fold Engine Project Notes
 ---
 
 # Project Notes

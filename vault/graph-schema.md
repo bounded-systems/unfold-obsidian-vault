@@ -1,6 +1,8 @@
 ---
-aliases: [Graph Schema, Vault Graph]
-sitemap-url: https://example.com/graph-schema
+title: Graph Schema Guide
+jsonld:
+  '@type': Collection
+  name: Vault Graph Schema
 ---
 
 # Graph + Schema Guide

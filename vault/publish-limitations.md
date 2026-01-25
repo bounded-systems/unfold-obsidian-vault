@@ -1,6 +1,8 @@
 ---
-aliases: [Publication Limitations]
-sitemap-url: https://bdelanghe.github.io/fold-engine/publish-limitations/
+title: Publish Limitations
+jsonld:
+  '@type': Collection
+  name: Publish Limitations
 ---
 
 # Publish Limitations

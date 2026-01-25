@@ -1,6 +1,8 @@
 ---
-aliases: [Cognitive JQ, Query Fold]
-sitemap-url: https://bdelanghe.github.io/fold-engine/cognitive-jq/
+title: Cognitive JQ
+jsonld:
+  '@type': Collection
+  name: Cognitive JQ Notes
 ---
 
 # Cognitive JQ

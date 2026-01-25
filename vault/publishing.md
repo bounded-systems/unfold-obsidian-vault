@@ -1,6 +1,8 @@
 ---
-aliases: [Publishing Fold Engine]
-sitemap-url: https://bdelanghe.github.io/fold-engine/publishing/
+title: Publishing Fold Engine
+jsonld:
+  '@type': Collection
+  name: Publishing Fold Engine Notes
 ---
 
 # Publishing

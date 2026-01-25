@@ -1,7 +1,8 @@
 ---
-tags: [unfold/core]
-status: draft
-schema: fold
+title: Fold Schema
+jsonld:
+  '@type': Collection
+  name: Fold Schema
 ---
 
 # Fold
