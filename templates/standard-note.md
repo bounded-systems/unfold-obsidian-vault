@@ -1,6 +1,7 @@
 ---
 title: Standard Note Template
 jsonld:
+  '@context': https://schema.org
   '@type': CreativeWork
   name: Standard Note Template
 ---

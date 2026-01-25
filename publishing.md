@@ -1,6 +1,7 @@
 ---
 title: Publishing Fold Engine
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Publishing Fold Engine Notes
 ---

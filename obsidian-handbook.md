@@ -1,6 +1,7 @@
 ---
 title: Obsidian Handbook
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Obsidian Handbook
 ---

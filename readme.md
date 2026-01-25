@@ -1,3 +1,11 @@
+---
+title: Unfold Obsidian Vault
+jsonld:
+  '@context': https://schema.org
+  '@type': CreativeWork
+  name: Unfold Obsidian Vault
+---
+
 # Unfold Obsidian Vault
 
 This repository is the starting point for turning the **Unfold** concept into a navigable Obsidian vault rooted in this directory. The unfolding process is the inverse of a cognitive **fold**, and the vault will document how the structured engine behind your Basis project expands compressed views into richly detailed representations.

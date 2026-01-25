@@ -1,7 +1,11 @@
 ---
+title: Termination
 tags: [unfold/core]
-status: draft
 schema: guard
+jsonld:
+  '@context': https://schema.org
+  '@type': Collection
+  name: Termination
 ---
 
 # Termination

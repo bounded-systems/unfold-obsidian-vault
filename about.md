@@ -1,6 +1,7 @@
 ---
 title: About Fold Engine
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: About Fold Engine
 ---

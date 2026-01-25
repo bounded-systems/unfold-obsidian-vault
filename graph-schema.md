@@ -1,6 +1,7 @@
 ---
 title: Graph Schema Guide
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Vault Graph Schema
 ---

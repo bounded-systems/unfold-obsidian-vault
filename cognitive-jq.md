@@ -1,6 +1,7 @@
 ---
 title: Cognitive JQ
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Cognitive JQ Notes
 ---

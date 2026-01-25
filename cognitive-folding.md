@@ -1,6 +1,7 @@
 ---
 title: Cognitive Folding
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Cognitive Folding Notes
 ---

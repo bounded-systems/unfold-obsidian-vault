@@ -1,6 +1,7 @@
 ---
 title: Publish Limitations
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Publish Limitations
 ---

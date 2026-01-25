@@ -1,7 +1,11 @@
 ---
+title: Examples
 tags: [unfold/core]
-status: draft
 schema: example
+jsonld:
+  '@context': https://schema.org
+  '@type': Collection
+  name: Examples
 ---
 
 # Examples

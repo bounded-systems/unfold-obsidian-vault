@@ -1,3 +1,11 @@
+---
+title: Fold Engine Sitemap
+jsonld:
+  '@context': https://schema.org
+  '@type': Collection
+  name: Fold Engine Sitemap
+---
+
 # Fold Engine Sitemap
 
 This note captures every canonical page from the sitemap so we can build individual vault notes for each URL.

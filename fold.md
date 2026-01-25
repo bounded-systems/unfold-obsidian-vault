@@ -1,6 +1,7 @@
 ---
 title: Fold Schema
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Fold Schema
 ---

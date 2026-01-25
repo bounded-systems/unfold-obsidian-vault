@@ -1,6 +1,7 @@
 ---
 title: Project Notes
 jsonld:
+  '@context': https://schema.org
   '@type': Collection
   name: Fold Engine Project Notes
 ---

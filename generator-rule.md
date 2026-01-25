@@ -1,7 +1,11 @@
 ---
+title: Generator Rule
 tags: [unfold/core]
-status: draft
 schema: expansion
+jsonld:
+  '@context': https://schema.org
+  '@type': Collection
+  name: Generator Rule
 ---
 
 # Generator Rule
