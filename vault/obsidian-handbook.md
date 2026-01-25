@@ -27,4 +27,5 @@ jsonld:
 
 - Keep vaults organized with the advice from [Manage Vaults](https://help.obsidian.md/manage-vaults) and symbolic links via the [Symlinks](https://help.obsidian.md/symlinks) doc if you share folders between environments.  
 - Syncing notes or importing/exporting occurs through [Sync Notes](https://help.obsidian.md/sync-notes) and [Plugins/Importer](https://help.obsidian.md/plugins/importer) references; track web updates in [Link Notes](https://help.obsidian.md/link-notes).  
-- Glossary for terminology: [Glossary](https://help.obsidian.md/glossary).
+- Glossary for terminology: [Glossary](https://help.obsidian.md/glossary).  
+- Reinforce the graph-model inspiration from the [IPLD Primer](https://ipld.io/docs/intro/primer/); this structured graph/linked-data view mirrors how the vault tracks folds, generator rules, and schema mappings.
