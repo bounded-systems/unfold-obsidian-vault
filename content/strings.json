@@ -3,8 +3,12 @@
     "type": "name",
     "value": "Unfold Obsidian Vault"
   },
+  "tagline": {
+    "type": "tagline",
+    "value": "title: Unfold Obsidian Vault jsonld: \"@context\": https://schema.org \"@type\": CreativeWork name: Unfold Obsidian Vault"
+  },
   "description": {
     "type": "meta",
-    "value": "title: Unfold Obsidian Vault"
+    "value": "title: Unfold Obsidian Vault jsonld: \"@context\": https://schema. org \"@type\": CreativeWork name: Unfold Obsidian Vault This repository is the starting point for turning the Unfold concept into a navigable Obsidian vault rooted in this directory.  The unfolding process is the i…"
   }
 }
